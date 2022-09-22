@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css/"
+    <title></title>
+</head>
+<body>
+    <header>
+        <a href="../img/logo.web.jpeg"></a><h1>Papa Pollo "Rosario"</h1> 
+    <nav>
+
+        <ul>
+         <li><a href="./Dedondesomos">¿DE DONDE SOMOS?</a></li>
+         <li><a href="./Contacto">CONTACTO</a></li>
+         <li><a href="./NuestrosPrd">NUESTROS PRODUCTOS</a></li>
+         <li><a href="./TuPedido">TU PEDIDO</a></li>
+        </ul>
+    </nav>
+    </header>
+    <section>
+        <h2>¿De donde somos?</h2>
+        <p>
+            Ubicacion exacta del lugar. 
+
+
+        </p>
+        <img src="../style.css/ubc.webp"Ubicacion"
+    </section>
+    <footer>
+       <p>Desarrollado por Ignacio Fernandez </p> 
+    </footer>
+</body>
+</html>

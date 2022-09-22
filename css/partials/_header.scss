@@ -1,0 +1,14 @@
+header {
+    width: 100%; 
+    display: flex;
+    padding: 15px 50px;
+    justify-content: space-between;
+    align-items:center;
+    background-color: goldenrod;
+    color: black;
+}
+
+ul {
+    display: flex;
+    gap: 40px;
+}
